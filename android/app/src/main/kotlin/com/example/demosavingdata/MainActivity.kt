@@ -1,0 +1,5 @@
+package com.example.demosavingdata
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()
